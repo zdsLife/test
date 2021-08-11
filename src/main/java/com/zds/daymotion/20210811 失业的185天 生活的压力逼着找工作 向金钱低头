@@ -1,0 +1,93 @@
+
+
+把容易忘得 不理解的 抄下来记笔记 反复琢磨
+多去实践 做实验
+===================================应对面试===================================
+
+笔试
+一.java 基础
+1.String final 修饰的 char[] 数组 基于缓存的常量池 双引号直接赋值 还是 new String()
+com.zds.interview.question.answer.to.code.UseString
+
+2.单例里面的双重检查 com.zds.study.singleton.DoubleCheckSingleton
+
+3.java 里面的 关键词字 static enum transient volatile
+
+4.集合 hashmap 数组 链表 红黑树    并发包下的集合 集合与线程安全 同步关键字
+从各个不同集合的时间复杂度回答
+
+5.同步关键字synchronized 加锁 优化后的 锁升级
+com/zds/study/lock/synchronized
+com/zds/study/lock/对于java编程里面的锁分析
+
+6.权限关键字的 最松public  最严private 四个范围 同类 同包 不同包子类 不同包不是子类 私有默认保护公共
+  mysql 不同隔离级别下 产生的 幻读 脏读 不可重复读问题
+
+7.关于父子类 里面的 构造方法 和静态代码块的 执行顺序
+com.zds.interview.code.B
+com.zds.interview.t1.HelloA
+
+8.回调函数 动态代理（asm技术生成的字节码.class）
+
+9.cookie 和session
+com/zds/study/browser/浏览器里面的会话cookie和服务器后端里面的session
+
+10.多线程
+com.zds.study.thread.Print10ABC
+
+
+二.SQL 语句的书写
+1.行列转换
+2.筛选 多用多表关联查询
+三.设计类题
+四.数据结构和算法
+com.zds.study.data structure.array.ArrayReverseOrder
+
+1.如何判断成环
+2.把两个链表合并为一个链表
+com.zds.study.data structure.linked list.MergeTwoOrderLinkedList
+3.排序算法
+com.zds.study.data structure.recursion.MonkeyEatPeach
+4.递归算法
+com.zds.study.data structure.recursion.MonkeyEatPeach
+
+五.读代码题
+六.安全相关
+
+
+技术人员面试
+一.简历上的技术逐选择的问
+1.java基础
+2.spring相关
+调用链比较长 吓退了不少人
+   你对spring的理解
+   三级缓存 循环依赖解决
+   事务的传播特性
+
+
+3.spring cloud 各个组件
+4.mysql
+1.com/zds/interview/database/mysql/mysql里面的锁
+5.redis
+6.ES
+7.linux简单命令
+8.git 简单使用 拉代码 推代码 大码分支合并
+9.jvm
+二.问项目相关
+   1.你觉得你在那些方面做的最好 就是你付出的技术输出 权限设计
+
+
+hr 面试
+
+高考多少分
+
+
+
+
+
+
+
+
+
+
+
