@@ -1,0 +1,24 @@
+
+
+beanFactory bean工厂
+prepareBeanFactory 准备bean工厂
+
+bean工厂 与classLoader 类加载器
+
+
+AbstractRefreshableApplicationContext
+
+ClassPathXmlApplicationContext
+AbstractApplicationContext
+ClassPathXmlApplicationContext
+setConfigLocations(configLocations)；
+refresh();
+AbstractApplicationContext
+
+
+loadBeanDefinitions
+XmlBeanDefinitionReader
+
+之前老是被一些非主干的细节 比如循环重复着 导致失去继续往下读的耐心
+实际跳过循环 alt + f9 就可以 调到指定的位置
+

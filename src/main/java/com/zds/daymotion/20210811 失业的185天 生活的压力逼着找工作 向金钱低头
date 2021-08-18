@@ -28,6 +28,11 @@ com.zds.interview.code.B
 com.zds.interview.t1.HelloA
 
 8.回调函数 动态代理（asm技术生成的字节码.class）
+https://www.jianshu.com/p/e57f3cf0a67f
+https://www.jianshu.com/p/e0207fe9f65c
+https://zhuanlan.zhihu.com/p/27484203 异步io
+
+
 
 9.cookie 和session
 com/zds/study/browser/浏览器里面的会话cookie和服务器后端里面的session
@@ -301,7 +306,8 @@ volatile不会造成线程的阻塞；synchronized可能会造成线程的阻塞
 synchronized：具有原子性，有序性和可见性
 粒度：对象锁、类锁
 
-35.
+35.递归获取某个路径下的文件和文件夹
+
 36.
 37.
 38.
@@ -327,6 +333,8 @@ com.zds.study.data structure.linked list.MergeTwoOrderLinkedList
 com.zds.study.data structure.recursion.MonkeyEatPeach
 4.递归算法
 com.zds.study.data structure.recursion.MonkeyEatPeach
+com.zds.study.data structure.recursion.RecursiveGetFile
+
 
 五.读代码题
 六.安全相关
@@ -336,6 +344,7 @@ com.zds.study.data structure.recursion.MonkeyEatPeach
 一.简历上的技术逐选择的问
 1.java基础
 2.spring相关
+com/zds/study/frame/spring/常见的类和重要的方法
 调用链比较长 吓退了不少人
    你对spring的理解
    三级缓存 循环依赖解决
@@ -359,6 +368,20 @@ hr 面试
 高考多少分
 
 
+
+回调函数的理解
+
+
+
+
+spring 里面的特别的类和方法
+
+refresh() 刷新
+
+很多准备方法
+很多委派方法
+很多解析方法
+很多工具方法
 
 
 
